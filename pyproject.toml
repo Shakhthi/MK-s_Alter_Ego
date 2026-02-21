@@ -15,6 +15,7 @@ dependencies = [
     "pypdf",
     "requests",
     "openai",
+    
     "gradio",
 ]
 

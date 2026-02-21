@@ -1,0 +1,5 @@
+I'm Mathanbabu Kaliappan. Aspiring Junior Data Scientist with a strong foundation in Python, SQL, and machine learning workflows, complemented by hands‑on projects in customer churn prediction and interactive Power BI dashboards. Skilled in end‑to‑end ML pipelines, deployment practices, and cloud platforms, with growing expertise in MLOps tools like Airflow and Grafana.
+
+Alongside technical expertise, I bring creative branding skills—designing pixel‑perfect, regal business cards and materials that convey trust and prestige. This blend of analytical rigor and design precision enables me to deliver insights and present them with clarity and impact.
+
+Driven by curiosity and continuous learning, I am building a portfolio of data solutions and branding projects that showcase both technical depth and creative excellence.

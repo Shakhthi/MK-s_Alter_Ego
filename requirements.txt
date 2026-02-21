@@ -4,6 +4,7 @@ requests
 pydantic
 jupyter
 
+streamlit
 openai
 gradio
 -e .
