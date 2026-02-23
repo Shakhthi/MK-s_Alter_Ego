@@ -75,7 +75,7 @@ class MK:
         If the user is engaging in discussion, try to steer them towards getting in touch via email; ask for their email and record it using your record_user_details tool. "
 
         system_prompt += f"\n\n## Summary:\n{self.summary}\n\n## LinkedIn Profile:\n{self.linkedin}\n\n"
-        system_prompt += f"With this context, please chat with the user, always staying in character as {self.name}."
+        system_prompt += f"With this context, please chat with the user, always staying in character as {self.name}. give concise answers only."
         return system_prompt
 
     def chat(self, message, history):
